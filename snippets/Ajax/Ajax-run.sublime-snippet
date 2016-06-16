@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Ajax::run(${1:action}, ${2:logged}, ${3:closure});
+Ajax::run('${1:action}', '${2:logged}', ${3:closure});
 ]]></content>
 	<tabTrigger>Ajax::run</tabTrigger>
 	<scope>source.php</scope>

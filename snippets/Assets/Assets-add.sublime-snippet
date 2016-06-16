@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Assets::add('${1:handle}', '${2:path}');
+]]></content>
+	<tabTrigger>Assets::add</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - The Asset class is responsible to easily load your stylesheet and/or javascript files.</description>
+</snippet>
