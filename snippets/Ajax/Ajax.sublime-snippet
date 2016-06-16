@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Ajax::run(${1:action}, ${2:logged}, ${3:closure});
+]]></content>
+	<tabTrigger>Ajax::run</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - Handles the WordPress mechanism for easily handling ajax requests.</description>
+</snippet>
