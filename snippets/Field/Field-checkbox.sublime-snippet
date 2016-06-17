@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Field::checkbox('${1:name}', ${2:options});
+]]></content>
+	<tabTrigger>Field::checkbox</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - Build a single or multiple checkbox field</description>
+</snippet>
