@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Taxonomy::make('${1:name}', '${1:postType}', '${3:plural}', '${4:singular}')->set();
+Taxonomy::make('${1:name}', '${2:postType}', '${3:plural}', '${4:singular}')->set();
 ]]></content>
 	<tabTrigger>Taxonomy::make</tabTrigger>
 	<scope>source.php</scope>

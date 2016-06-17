@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Form::button('${1:name}', '${2:value}')
+Form::button('${1:name}', '${2:value}');
 ]]></content>
 	<tabTrigger>Form::button</tabTrigger>
 	<scope>source.php</scope>
