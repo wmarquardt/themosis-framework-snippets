@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+PostType::make('${1:name}', '${2:plural}', '${3:singular}')->set();
+]]></content>
+	<tabTrigger>PostType::make</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - The PostType class helps you to register and manipulate WordPress custom post types</description>
+</snippet>
