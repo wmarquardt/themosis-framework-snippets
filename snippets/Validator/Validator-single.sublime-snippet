@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Validator::multiple(${1:data}, ['${2:rules}']);
+]]></content>
+	<tabTrigger>Validator::multiple</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - Validate multiple data</description>
+</snippet>
