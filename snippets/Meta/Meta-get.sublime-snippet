@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Meta::get(${1:id}, '${2:key}');
+]]></content>
+	<tabTrigger>Meta::get</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - The Meta class is an helper class to help you retrieve data of custom fields registered as post meta</description>
+</snippet>
