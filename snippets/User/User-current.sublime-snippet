@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+User::current();
+]]></content>
+	<tabTrigger>User::current</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - Get current user</description>
+</snippet>

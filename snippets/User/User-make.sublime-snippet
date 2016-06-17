@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+User::make('${1:name}', '${2:password}', '${3:email}');
+]]></content>
+	<tabTrigger>User::make</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - Create a new user</description>
+</snippet>
