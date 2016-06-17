@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Field::color('${1:name}');
+]]></content>
+	<tabTrigger>Field::color</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - Build a color field and display a color picker widget so users can pick a color easily</description>
+</snippet>

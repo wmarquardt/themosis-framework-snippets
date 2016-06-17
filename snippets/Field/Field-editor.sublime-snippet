@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Field::editor('${1:name}', ${2:options}, ${3:settings});
+]]></content>
+	<tabTrigger>Field::editor</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - Build a WordPress Editor TinyMCE field</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Field::select('${1:name}', ${2:options});
+]]></content>
+	<tabTrigger>Field::select</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - Build a select field</description>
+</snippet>

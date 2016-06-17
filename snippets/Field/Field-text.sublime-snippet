@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Field::text('${1:name}');
+]]></content>
+	<tabTrigger>Field::text</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - Build a simple text field</description>
+</snippet>

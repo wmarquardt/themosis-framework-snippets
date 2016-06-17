@@ -2,7 +2,7 @@
 	<content><![CDATA[
 Config::get('${1:application}');
 ]]></content>
-	<tabTrigger>Config:get</tabTrigger>
+	<tabTrigger>Config::get</tabTrigger>
 	<scope>source.php</scope>
 	<description>Themosis - Retrieve all properties from configuration file</description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Field::textarea('${1:name}');
+]]></content>
+	<tabTrigger>Field::textarea</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - Build a textarea field</description>
+</snippet>

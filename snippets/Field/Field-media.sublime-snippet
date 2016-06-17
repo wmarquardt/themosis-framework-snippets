@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Field::media('${1:name}');
+]]></content>
+	<tabTrigger>Field::media</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - Build a media field</description>
+</snippet>

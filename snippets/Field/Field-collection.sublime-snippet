@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Field::collection('${1:name}');
+]]></content>
+	<tabTrigger>Field::collection</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - Allows a user to add/edit/delete a collection of media files</description>
+</snippet>

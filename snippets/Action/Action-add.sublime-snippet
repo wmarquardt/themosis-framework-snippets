@@ -2,7 +2,7 @@
 	<content><![CDATA[
 Action::add('${1:init}', '${2:ClassName@initiation}');
 ]]></content>
-	<tabTrigger>Action:add</tabTrigger>
+	<tabTrigger>Action::add</tabTrigger>
 	<scope>source.php</scope>
 	<description>Themosis - Register/add action hooks</description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Field::infinite('${1:name}',${2:fields},${3:features});
+]]></content>
+	<tabTrigger>Field::infinite</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - Build a repeatable field</description>
+</snippet>

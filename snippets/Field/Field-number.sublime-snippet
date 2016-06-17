@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Field::number('${1:name}');
+]]></content>
+	<tabTrigger>Field::number</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - Build a simple number field</description>
+</snippet>
