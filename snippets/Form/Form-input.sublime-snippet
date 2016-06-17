@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Form::input('${1:type}, '${2:name}');
+]]></content>
+	<tabTrigger>Form::input</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - Miscellaneous inputs</description>
+</snippet>

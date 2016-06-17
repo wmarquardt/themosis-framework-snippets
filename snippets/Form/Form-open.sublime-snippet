@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Form::open(${1});
+]]></content>
+	<tabTrigger>Form::open</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - Open a form</description>
+</snippet>

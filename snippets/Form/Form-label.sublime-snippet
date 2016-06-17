@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Form::label('${1:Display text}');
+]]></content>
+	<tabTrigger>Form::label</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - Output a label tag</description>
+</snippet>
