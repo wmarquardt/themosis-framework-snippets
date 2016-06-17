@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+themosis_use_permalink();
+]]></content>
+	<tabTrigger>themosis_use_permalink</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - Returns whether the WordPress pretty permalink structure is used</description>
+</snippet>

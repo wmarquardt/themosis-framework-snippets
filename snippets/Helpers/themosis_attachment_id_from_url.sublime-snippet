@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+themosis_attachment_id_from_url(${1:url});
+]]></content>
+	<tabTrigger>themosis_attachment_id_from_url</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - This function returns an attachment ID based on the URL/path given</description>
+</snippet>

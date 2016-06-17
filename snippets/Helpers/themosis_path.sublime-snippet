@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+themosis_path('${1:name}');
+]]></content>
+	<tabTrigger>themosis_path</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - This function returns the real path of each part of the framework you ask for by providing the name parameter</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+starts_with('${1:haystack}','${2:needles}');
+]]></content>
+	<tabTrigger>starts_with</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - Checks whether a given string starts with a given substring.</description>
+</snippet>

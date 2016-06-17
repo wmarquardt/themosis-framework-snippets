@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+themosis_set_path(['${1}' => '${2}']);
+]]></content>
+	<tabTrigger>themosis_set_path</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - Register paths to your project</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+themosis_get_the_query();
+]]></content>
+	<tabTrigger>themosis_get_the_query</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - Returns the current WordPress query inside the $wp_query global</description>
+</snippet>

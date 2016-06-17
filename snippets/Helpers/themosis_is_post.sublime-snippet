@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+themosis_is_post(${1:id});
+]]></content>
+	<tabTrigger>themosis_is_post</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - A function that checks you're on a specified admin page, post or custom post type(edit screen) in order to display a specific content</description>
+</snippet>

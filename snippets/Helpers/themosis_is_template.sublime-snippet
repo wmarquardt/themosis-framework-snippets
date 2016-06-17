@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+themosis_is_template(['${1}']);
+]]></content>
+	<tabTrigger>themosis_is_template</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - Get an item of an array using a "." notation</description>
+</snippet>

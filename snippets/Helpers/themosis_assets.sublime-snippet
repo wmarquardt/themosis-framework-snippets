@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+themosis_assets();
+]]></content>
+	<tabTrigger>themosis_assets</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - This function returns the URL path of the themosis-theme assets directory</description>
+</snippet>

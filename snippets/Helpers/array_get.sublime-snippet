@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+array_get(['${1}'],'${2:key}', '${3:default}');
+]]></content>
+	<tabTrigger>array_get</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - Checks whether a given string starts with a given substring.</description>
+</snippet>
