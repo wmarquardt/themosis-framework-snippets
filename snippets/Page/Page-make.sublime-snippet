@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Page::make('${1:slug}', '${2:title}');
+]]></content>
+	<tabTrigger>Page::make</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - The Page class allows you to either create custom administrative pages</description>
+</snippet>

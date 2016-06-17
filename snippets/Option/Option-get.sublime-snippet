@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Option::get('${1:optionGroup}', '${2:name}');
+]]></content>
+	<tabTrigger>Option::get</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - The Option class has only one method. The get method helps you retrieve your option value.</description>
+</snippet>
