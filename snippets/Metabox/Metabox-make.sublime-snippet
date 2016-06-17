@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Metabox::make('${1:title}', '${2:postType}');
+]]></content>
+	<tabTrigger>Metabox::make</tabTrigger>
+	<scope>source.php</scope>
+	<description>Themosis - he Metabox class helps you build custom WordPress metabox. A metabox is a UI container for your custom fields (post metadata)</description>
+</snippet>
